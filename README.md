@@ -2,7 +2,7 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 <br />
 <div align="center">
- <img src="image.jpg" alt="Logo" style="border-radius: 10px" width="200" height="200">
+ <img src="logo.jpg" alt="Logo" style="border-radius: 10px" width="200" height="200">
  <h3 align="center">simple desk clock</h3>
 
  <p align="center">
