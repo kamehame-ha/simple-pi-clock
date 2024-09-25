@@ -31,7 +31,7 @@ Couple days ago I realised that i have RPi zero laying in the drawer, and also i
 * Screwdriver
 
 **3D Printed Case:**
-Download my files with pre loaded settings there: 
+Download my files with pre loaded settings there: https://makerworld.com/en/models/662784#profileId-590001
 
 **Other stuff:**
 
