@@ -2,7 +2,7 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 <br />
 <div align="center">
- <img src="images/image.jpg" alt="Logo" style="border-radius: 10px" width="200" height="200">
+ <img src="image.jpg" alt="Logo" style="border-radius: 10px" width="200" height="200">
  <h3 align="center">simple desk clock</h3>
 
  <p align="center">
@@ -66,7 +66,7 @@ After completing steps above use micro-usb cable to power you RPi, i just connec
 ### 3. Screws
 Now just lock display and RPi inside a case using 4 M2 screws for the display and 4 M2.5 screws for the RPi. It should look like this:
 
-![image](images/inside.jpg)
+![image](inside.jpg)
 
 Guide power cable through hole in the top part of the case and use last 4 2.5M screws to close up clock case
 
